@@ -8,7 +8,7 @@ Welcome to my profile! I'm a Robotics Software Engineer from Myanmar. Thanks for
 
 [![Phone's github stats](https://github-readme-stats.vercel.app/api?username=mlsdpk&include_all_commits=true)](https://github.com/mlsdpk/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlsdpk&hide=jupyter%20notebook,emberscript&layout=compact)](https://github.com/mlsdpk/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlsdpk&hide=jupyter%20notebook,emberscript,html,scss&layout=compact)](https://github.com/mlsdpk/)
 
 ### Awesome Projects
 
