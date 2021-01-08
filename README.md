@@ -12,9 +12,10 @@ Welcome to my profile! I'm a Robotics Software Engineer from Myanmar. Thanks for
 
 ### Awesome Projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=alphazero-checkers-pygame)](https://github.com/mlsdpk/alphazero-checkers-pygame)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=path-finding-visualizer)](https://github.com/mlsdpk/path-finding-visualizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=mcl-cpp)](https://github.com/mlsdpk/mcl-cpp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ros-lane-follower)](https://github.com/mlsdpk/ros-lane-follower)
+
 
 <!--
 **mlsdpk/mlsdpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
