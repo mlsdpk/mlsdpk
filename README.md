@@ -12,24 +12,13 @@ Please visit [my portfolio website](https://mlsdpk.github.io/) to learn more abo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlsdpk&hide=jupyter%20notebook,emberscript,html,scss&layout=compact)](https://github.com/mlsdpk/)
 
-### Awesome Projects
+### Ongoing Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=alphazero-checkers-pygame)](https://github.com/mlsdpk/alphazero-checkers-pygame)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=path-finding-visualizer)](https://github.com/mlsdpk/path-finding-visualizer)
+
+### Awesome Projects
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ros-lane-follower)](https://github.com/mlsdpk/ros-lane-follower)
-
-
-<!--
-**mlsdpk/mlsdpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=SFND_3D_Object_Tracking)](https://github.com/mlsdpk/SFND_3D_Object_Tracking)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=mcl-cpp)](https://github.com/mlsdpk/mcl-cpp)
