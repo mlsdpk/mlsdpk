@@ -14,9 +14,9 @@ Please visit [my portfolio website](https://mlsdpk.github.io/) to learn more abo
 
 ### Ongoing Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=spanning_tree_coverage_planner)](https://github.com/mlsdpk/spanning_tree_coverage_planner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=alphazero-checkers-pygame)](https://github.com/mlsdpk/alphazero-checkers-pygame)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=path-finding-visualizer)](https://github.com/mlsdpk/path-finding-visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=spanning_tree_coverage_planner)](https://github.com/mlsdpk/spanning_tree_coverage_planner)
 
 ### Awesome Projects
 
