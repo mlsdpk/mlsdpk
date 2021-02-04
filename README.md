@@ -12,6 +12,10 @@ Please visit [my portfolio website](https://mlsdpk.github.io/) to learn more abo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlsdpk&hide=jupyter%20notebook,emberscript,html,scss&layout=compact)](https://github.com/mlsdpk/)
 
+### Profile Visits
+
+![](https://komarev.com/ghpvc/?username=mlsdpk)
+
 ### Ongoing Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=alphazero-checkers-pygame)](https://github.com/mlsdpk/alphazero-checkers-pygame)
