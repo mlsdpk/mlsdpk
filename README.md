@@ -19,6 +19,7 @@ Please visit [my portfolio website](https://mlsdpk.github.io/) to learn more abo
 ### Ongoing Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=alphazero-checkers-pygame)](https://github.com/mlsdpk/alphazero-checkers-pygame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=rl-paper-notes)](https://github.com/mlsdpk/rl-paper-notes)
 
 ### Awesome Projects
 
