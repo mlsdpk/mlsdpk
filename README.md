@@ -18,12 +18,11 @@ Please visit [my portfolio website](https://mlsdpk.github.io/) to learn more abo
 
 ### Ongoing Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=alphazero-checkers-pygame)](https://github.com/mlsdpk/alphazero-checkers-pygame)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=rl-paper-notes)](https://github.com/mlsdpk/rl-paper-notes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=path-finding-visualizer)](https://github.com/mlsdpk/path-finding-visualizer)
+
 
 ### Awesome Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=path-finding-visualizer)](https://github.com/mlsdpk/path-finding-visualizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=concurrent-traffic-simulation)](https://github.com/mlsdpk/concurrent-traffic-simulation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ros-lane-follower)](https://github.com/mlsdpk/ros-lane-follower)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=SFND_3D_Object_Tracking)](https://github.com/mlsdpk/SFND_3D_Object_Tracking)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=concurrent-traffic-simulation)](https://github.com/mlsdpk/concurrent-traffic-simulation)
