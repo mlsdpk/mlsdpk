@@ -18,7 +18,7 @@ Please visit [my portfolio website](https://mlsdpk.github.io/) to learn more abo
 
 ### Ongoing Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=pathfinding-visualizer-qt)](https://github.com/mlsdpk/pathfinding-visualizer-qt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=lidar-obstacle-detection)](https://github.com/mlsdpk/lidar-obstacle-detection)
 
 ### Awesome Projects
 
