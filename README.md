@@ -18,7 +18,7 @@ Please visit [my portfolio website](https://mlsdpk.github.io/) to learn more abo
 
 ### Ongoing Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roarLab&repo=psrr)](https://github.com/roarLab/psrr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ompl_2d_rviz_visualizer)](https://github.com/mlsdpk/ompl_2d_rviz_visualizer)
 
 ### Awesome Projects
 
