@@ -18,11 +18,11 @@ Please visit [my portfolio website](https://mlsdpk.github.io/) to learn more abo
 
 ### Ongoing Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ompl_2d_rviz_visualizer)](https://github.com/mlsdpk/ompl_2d_rviz_visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=smooth_local_planner)](https://github.com/mlsdpk/smooth_local_planner)
 
 ### Awesome Projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ompl_2d_rviz_visualizer)](https://github.com/mlsdpk/ompl_2d_rviz_visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ros-lane-follower)](https://github.com/mlsdpk/ros-lane-follower)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=lidar-obstacle-detection)](https://github.com/mlsdpk/lidar-obstacle-detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=path-finding-visualizer)](https://github.com/mlsdpk/path-finding-visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=concurrent-traffic-simulation)](https://github.com/mlsdpk/concurrent-traffic-simulation)
