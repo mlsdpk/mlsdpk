@@ -6,7 +6,7 @@
 
 Welcome to my profile! I'm a Robotics Software Engineer from Myanmar. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mlsdpk/)!
 
-Please visit [my portfolio website](https://mlsdpk.github.io/) to learn more about me. I usually record my personal achievements there and all my publications and projects are presented in details. I also publish blog posts and will try my best to do it frequently.
+Please visit [my portfolio website](https://www.phonethk.com) to learn more about me. I usually record my personal achievements there and all my publications and projects are presented in details. I also publish blog posts and will try my best to do it frequently.
 
 [![Phone's github stats](https://github-readme-stats.vercel.app/api?username=mlsdpk&include_all_commits=true)](https://github.com/mlsdpk/)
 
