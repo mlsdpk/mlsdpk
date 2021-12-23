@@ -18,7 +18,7 @@ Please visit [my portfolio website](https://www.phonethk.com) to learn more abou
 
 ### Ongoing Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=smooth_local_planner)](https://github.com/mlsdpk/smooth_local_planner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=cmpf)](https://github.com/mlsdpk/cmpf)
 
 ### Awesome Projects
 
@@ -26,3 +26,4 @@ Please visit [my portfolio website](https://www.phonethk.com) to learn more abou
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ros-lane-follower)](https://github.com/mlsdpk/ros-lane-follower)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=path-finding-visualizer)](https://github.com/mlsdpk/path-finding-visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=concurrent-traffic-simulation)](https://github.com/mlsdpk/concurrent-traffic-simulation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=smooth_local_planner)](https://github.com/mlsdpk/smooth_local_planner)
