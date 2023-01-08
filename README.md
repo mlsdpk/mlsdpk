@@ -2,9 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-phonethihakyaw-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mlsdpk/)](https://www.linkedin.com/in/mlsdpk/)
 [![Gmail Badge](https://img.shields.io/badge/-mlsdphonethk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mlsdphonethk@gmail.com)](mailto:mlsdphonethk@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-phonethihakyaw-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007075697474)](https://www.facebook.com/profile.php?id=100007075697474)
 
-Welcome to my profile! I'm a Robotics Software Engineer from Myanmar. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mlsdpk/)!
+Welcome to my profile! I work to create autonomous cleaning robots at an amazing company called [LionsBot International](https://www.lionsbot.com). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mlsdpk/)!
 
 Please visit [my portfolio website](https://www.phonethk.com) to learn more about me. I usually record my personal achievements there and all my publications and projects are presented in details. I also publish blog posts and will try my best to do it frequently.
 
