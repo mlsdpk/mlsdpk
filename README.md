@@ -17,7 +17,7 @@ Please visit [my portfolio website](https://www.phonethk.com) to learn more abou
 
 ### Ongoing Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=autograd)](https://github.com/mlsdpk/autograd)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=anyangle_planners)](https://github.com/mlsdpk/anyangle_planners)
 
 ### Awesome Projects
 
