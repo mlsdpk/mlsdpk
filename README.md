@@ -17,10 +17,11 @@ Please visit [my portfolio website](https://www.phonethk.com) to learn more abou
 
 ### Ongoing Projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=slam_vdb)](https://github.com/mlsdpk/slam_vdb)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=anyangle_planners)](https://github.com/mlsdpk/anyangle_planners)
 
 ### Awesome Projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ompl)](https://github.com/mlsdpk/ompl)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=ompl_2d_rviz_visualizer)](https://github.com/mlsdpk/ompl_2d_rviz_visualizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=smooth_local_planner)](https://github.com/mlsdpk/smooth_local_planner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlsdpk&repo=path-finding-visualizer)](https://github.com/mlsdpk/path-finding-visualizer)
